@@ -1,5 +1,5 @@
 {
-  "name": "tape",
+  "name": "colored-tape",
   "version": "2.12.3",
   "description": "tap-producing test harness for node and browsers",
   "main": "index.js",
@@ -39,9 +39,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/substack/tape.git"
+    "url": "git://github.com/morishitter/colored-tape.git"
   },
-  "homepage": "https://github.com/substack/tape",
+  "homepage": "https://github.com/morishitter/colored-tape",
   "keywords": [
     "tap",
     "test",
@@ -49,10 +49,5 @@
     "assert",
     "browser"
   ],
-  "author": {
-    "name": "James Halliday",
-    "email": "mail@substack.net",
-    "url": "http://substack.net"
-  },
   "license": "MIT"
 }
