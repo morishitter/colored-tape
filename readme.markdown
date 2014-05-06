@@ -1,4 +1,4 @@
-# colored-tape [![build status](https://secure.travis-ci.org/morishitter/colored-tape.svg)](http://travis-ci.org/morishitter/colored-tape)
+# colored-tape
 
 color result of [tape](https://github.com/substack/tape)
 
