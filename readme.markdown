@@ -1,9 +1,8 @@
 # colored-tape [![build status](https://secure.travis-ci.org/morishitter/colored-tape.svg)](http://travis-ci.org/morishitter/colored-tape)
 
-tap-producing test harness for node and browsers with color
+color result of [tape](https://github.com/substack/tape)
 
 forked from [substack/tape](https://github.com/substack/tape)
-
 
 ## Example
 

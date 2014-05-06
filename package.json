@@ -1,7 +1,7 @@
 {
   "name": "colored-tape",
-  "version": "2.12.3",
-  "description": "tap-producing test harness for node and browsers",
+  "version": "1.0.0",
+  "description": "color result of tape",
   "main": "index.js",
   "bin": "./bin/tape",
   "directories": {
